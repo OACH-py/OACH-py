@@ -16,7 +16,6 @@
 - 🤖 Explorando el mundo de los **LLMs** y la inteligencia artificial
 - 🌱 Actualmente aprendiendo a construir herramientas con modelos de lenguaje
 - 💬 Pregúntame sobre Python, automatización o modelos de IA
-- 📫 Contáctame: **oach4444@gmail.com**
 
 ---
 
@@ -37,13 +36,6 @@
 ---
 
 ### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=OACH-py&show_icons=true&theme=tokyonight&hide_border=true&locale=es" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OACH-py&layout=compact&theme=tokyonight&hide_border=true&locale=es" height="165"/>
-
-</div>
 
 <div align="center">
 
